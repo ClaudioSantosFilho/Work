@@ -1,4 +1,4 @@
-## Day 1
+## Day 1: Onboard
 - Edição do pefil da Compass 
 - Criação do GitLab
 - Criação do Repositório (Readme)

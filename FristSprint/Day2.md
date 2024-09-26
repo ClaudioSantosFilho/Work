@@ -1,4 +1,4 @@
-## Day 2
+## Day 2: Fundamentos do teste de software
 - Scrum, Papéis e Responsabilidades
 - Inicio da trilha de aprendizagem 
 - Daily às duas e meia

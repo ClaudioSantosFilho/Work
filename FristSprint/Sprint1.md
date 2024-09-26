@@ -1,4 +1,4 @@
-# Sprint 01: 
+# Sprint 01: Processos Ágeis e Fundamentos de Teste
 - Comunicação em projetos
 - Como criar bons READMEs para repositórios versionados
 - Matriz de Eisenhower
