@@ -7,6 +7,12 @@
 ## Reuniões
 - [x] **Daily às 14h30**
 
+## Help
+- **Gabriel**
+- **Giusepp**
+- **Isadora**
+- **Yanna**
+
 ## Resumo: Como Gerar Qualidade nos Projetos?
 
 - **Qualidade do Produto**: Testar software não significa apenas encontrar defeitos, mas também garantir que os requisitos e expectativas do cliente sejam atendidos corretamente.
