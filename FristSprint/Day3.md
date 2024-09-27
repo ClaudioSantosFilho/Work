@@ -5,6 +5,8 @@
   - Assistir à trilha de aprendizado para entender os fundamentos de Teste de Software e Garantia de Qualidade (QA).
 
 ---
+## Reuniões
+- [x] **Daily às 14h30**
 
 ## Sites para Trabalhar como Freelancer
 - [Dice](https://www.dice.com/)

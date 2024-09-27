@@ -15,7 +15,6 @@
   
 ## Reuniões
 - [x] **Daily às 14h30**
-  - Participação na reunião diária de alinhamento.
 
 ## Vídeos
 - [x] **Assistir aos três vídeos do primeiro dia**

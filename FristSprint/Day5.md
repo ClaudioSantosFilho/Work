@@ -4,6 +4,8 @@
 - [x] **Dinâmica Grupo 3**: Participação na dinâmica em grupo com **Gabriel, Giusepp, Isadora, Yanna e Claudio**.
 
 ---
+## Reuniões
+- [x] **Daily às 14h30**
 
 ## Resumo: Como Gerar Qualidade nos Projetos?
 

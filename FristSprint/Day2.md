@@ -20,6 +20,8 @@
 - **Lira**
 
 ---
+## Reuniões
+- [x] **Daily às 14h30**
 
 ## Resumo do Dia
 ### Troca de Informações

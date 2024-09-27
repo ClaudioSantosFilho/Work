@@ -5,3 +5,5 @@
   - Continuação da trilha de aprendizagem sobre os fundamentos de Teste de Software e Garantia de Qualidade (QA).
 
 ---
+## Reuniões
+- [x] **Daily às 14h30**
