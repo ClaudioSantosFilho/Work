@@ -5,7 +5,7 @@
   - Estudo sobre os papéis e responsabilidades dentro do Scrum (Scrum Master, Product Owner, Time de Desenvolvimento).
 - [x] **Início da Trilha de Aprendizagem**
   - Primeiros passos na trilha de capacitação estabelecida.
-- [x] **Daily às 14h30**
+- [x] **Daily às 14h20**
   - Participação na reunião diária para alinhar progresso e desafios.
 - [x] **Vídeos sobre Funcionalidades do GitLab**
   - Assistir vídeos explicativos sobre como usar as funcionalidades principais do GitLab.

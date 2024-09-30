@@ -14,7 +14,7 @@
   - [Matriz de Eisenhower](https://www.siteware.com.br/blog/produtividade/matriz-de-eisenhower/)
   
 ## Reuniões
-- [x] **Daily às 14h30**
+- [x] **Daily às 14h20**
 
 ## Vídeos
 - [x] **Assistir aos três vídeos do primeiro dia**

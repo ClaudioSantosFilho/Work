@@ -6,7 +6,7 @@
 
 ---
 ## Reuniões
-- [x] **Daily às 14h30**
+- [x] **Daily às 14h20**
 
 ## Sites para Trabalhar como Freelancer
 - [Dice](https://www.dice.com/)

@@ -20,4 +20,6 @@
 - **[Day 4](https://github.com/ClaudioSantosFilho/Work/blob/main/FristSprint/Day4.md)**
 
 - **[Day 5](https://github.com/ClaudioSantosFilho/Work/blob/main/FristSprint/Day5.md)**
+
+- **[Day](https://github.com/ClaudioSantosFilho/Work/blob/main/FristSprint/Day6.md)**
 ---

@@ -1,11 +1,11 @@
 # Dia 5: Fundamentos do Teste de Software + Myers e o Princípio de Pareto
 
 ## Tarefas do Dia
-- [x] **Dinâmica Grupo 3**: Participação na dinâmica em grupo com **Gabriel, Giusepp, Isadora, Yanna e Claudio**.
+- [x] **Dinâmica Grupo 3**: Participação na dinâmica em grupo com **Gabriel, Giusepp, Isadora, Yanna e Claudio**
 
 ---
 ## Reuniões
-- [x] **Daily às 14h30**
+- [x] **Daily às 14h20**
 
 ## Help
 - **Gabriel**

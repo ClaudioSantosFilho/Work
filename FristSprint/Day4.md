@@ -6,4 +6,4 @@
 
 ---
 ## Reuniões
-- [x] **Daily às 14h30**
+- [x] **Daily às 14h20**
